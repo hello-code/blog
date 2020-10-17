@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>BLOG</title>
-        <link>https://example.com/</link>
+        <link>hello-code.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.68.3 https://gohugo.io/</generator>
         
@@ -19,15 +19,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 17 Oct 2020 15:11:41 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2020 15:13:44 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="hello-code.github.io/rss.xml" />
         
         
             <item>
                 <title>Go Cross Compile</title>
-                <link>https://example.com/posts/go-cross-compile/</link>
-                <guid isPermaLink="true">https://example.com/posts/go-cross-compile/</guid>
+                <link>hello-code.github.io/posts/go-cross-compile/</link>
+                <guid isPermaLink="true">hello-code.github.io/posts/go-cross-compile/</guid>
                 <pubDate>Sat, 17 Oct 2020 09:12:40 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
@@ -54,8 +54,8 @@
         
             <item>
                 <title>发布文章到Github Pages</title>
-                <link>https://example.com/posts/hello/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello/</guid>
+                <link>hello-code.github.io/posts/hello/</link>
+                <guid isPermaLink="true">hello-code.github.io/posts/hello/</guid>
                 <pubDate>Fri, 16 Oct 2020 05:25:37 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
