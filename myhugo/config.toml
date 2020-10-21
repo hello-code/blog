@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "hello-code.github.io"
+baseURL = ""
 title = "Blog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
